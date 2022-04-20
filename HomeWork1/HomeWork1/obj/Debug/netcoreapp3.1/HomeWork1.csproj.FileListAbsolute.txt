@@ -1,0 +1,28 @@
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
+D:\InternshipTask\c# lesson\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.AssemblyReference.cache
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+D:\InternshipTask\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.AssemblyReference.cache
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\InternshipTask\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
